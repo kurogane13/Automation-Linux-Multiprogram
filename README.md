@@ -23,8 +23,9 @@ You should create the following folders, for ssh, and telnet scripts:
 
 in the home folder create:
 
-cisco-ssh-access-scripts-logs
-cisco-telnet-access-scripts-logs
+a folder named: cisco-ssh-access-scripts-logs
+
+a folder named: cisco-telnet-access-scripts-logs
 
 Inside of each of the above directories, create the following subdirectories:
 
