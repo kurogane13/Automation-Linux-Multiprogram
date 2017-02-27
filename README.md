@@ -9,7 +9,7 @@ tasks program".
 There some scripts and programs that will work if executed alone, be it with bash, or python,
 but many of them depend on others.
 
-You should COPY ALL THE UPLOADED FILES TO YOUR HOME DIRECTORY, and when running them you will need to provide your 
+You should download and COPY ALL THE FILES IN THE REPOSITORY TO YOUR HOME DIRECTORY, and when running them you will need to provide your 
 root password.
 
 The main programs are: 
