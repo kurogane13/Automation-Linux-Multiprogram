@@ -29,8 +29,9 @@ a folder named: cisco-telnet-access-scripts-logs
 
 Inside of each of the above directories, create the following subdirectories:
 
-check-device-network-status
-running-configs
+create folder: check-device-network-status
+
+create folder: running-configs
 
 
 To get a button console version of the Multiprogram, copy ( with sudo )  Multiprogram-Tkinter.Desktop to your linux Desktop.
