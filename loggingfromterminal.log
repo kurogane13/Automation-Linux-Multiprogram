@@ -1,0 +1,81 @@
+Script started on vie 20 ene 2017 13:14:58 ART
+]0;root@kurogane: /homeroot@kurogane:/home# ls -a -l -h -t -s
+total 2,4M
+4,0K drwxr-xr-x 10 root root 4,0K ene 20 13:14 [0m[01;34m.[0m
+   0 -rw-r--r--  1 root root    0 ene 20 13:14 loggingfromterminal.log
+4,0K drwxr-xr-x 24 gus  gus  4,0K ene 20 12:37 [01;34mgus[0m
+4,0K drwxr-xr-x  4 root root 4,0K ene 19 22:06 [01;34mMULTIPROGRAM[0m
+   0 -rw-r--r--  1 root root    0 ene 19 22:05 typescript
+   0 -rw-r--r--  1 root root    0 ene 19 22:01 cisco12345?
+   0 -rw-r--r--  1 root root    0 ene 19 22:01 ?Invalid
+   0 -rw-r--r--  1 root root    0 ene 19 22:01 Trying
+4,0K drwxr-xr-x  2 root root 4,0K ene 19 22:01 [01;34mcisco-telnet-access-scripts-logs[0m
+   0 -rw-r--r--  1 root root    0 ene 19 22:01 Script
+8,0K -rwxr-xr-x  1 root root 7,4K ene 19 21:56 [01;32mTelnet-button-scripts.py[0m
+8,0K -rwxr-xr-x  1 root root 7,3K ene 19 21:45 [01;32mSsh-button-scripts.py[0m
+8,0K -rwxrwxr-x  1 gus  gus  2,0K ene 19 21:32 [01;32mMatrix.py[0m
+168K -rwxr-xr-x  1 root root 165K ene 19 21:25 [01;32mMultiprogram-new-1.py[0m
+4,0K drwxr-xr-x 23 root root 4,0K ene 19 17:09 [01;34m..[0m
+4,0K -rwxr-xr-x  1 root root  254 ene 19 15:54 [01;32mMultiprogram-Tkinter.Desktop[0m
+4,0K -rwxr-xr-x  1 root root  122 ene 19 15:54 [01;32mrunscripts-cisco-telnet-access-scripts-logs.sh[0m
+4,0K -rwxr-xr-x  1 root root  119 ene 19 15:54 [01;32mrunscripts-cisco-ssh-access-scripts-logs.sh[0m
+8,0K -rwxr-xr-x  1 root root 7,6K ene 19 15:54 [01;32mcopyallfrommyflashdrive.sh[0m
+8,0K -rwxr-xr-x  1 root root 6,1K ene 19 15:54 [01;32mcopyalltomyflashdrive.sh[0m
+8,0K -rwxr-xr-x  1 root root 5,9K ene 19 15:54 [01;32mcopyalltomyhardrive.sh[0m
+8,0K -rwxr-xr-x  1 root root 4,2K ene 19 15:54 [01;32mcopyallmultiprogramfiles.sh[0m
+8,0K -rwxr-xr-x  1 root root 6,4K ene 19 15:54 [01;32mcopymultiprogramfromexternalhardrive.sh[0m
+4,0K -rwxr-xr-x  1 root root   69 ene 19 15:54 [01;32mchangevmswappiness.sh[0m
+8,0K -rwxr-xr-x  1 root root 4,8K ene 19 15:54 [01;32mtelnet-scriptmultiple.sh[0m
+8,0K -rwxr-xr-x  1 root root 4,8K ene 19 15:54 [01;32mssh-scriptmultiple.sh[0m
+4,0K drwxr-xr-x  3 root root 4,0K ene 19 15:54 [01;34mmygns3files[0m
+4,0K -rwxr-xr-x  1 root root  403 ene 19 15:54 [01;32mdelete-bridge-interfaces-wireless.sh[0m
+4,0K -rwxr-xr-x  1 root root  714 ene 19 15:54 [01;32mcreate-bridge-interfaces-wireless.sh[0m
+4,0K drwxr-xr-x  2 root root 4,0K ene 19 15:54 [01;34mtelnet-tkinter-router[0m
+4,0K drwxr-xr-x  2 root root 4,0K ene 19 15:54 [01;34mssh-tkinter-router[0m
+4,0K -rwxr-xr-x  1 root root  915 ene 19 15:54 [01;32mssh-Tkinter-retrieve-running-config.sh[0m
+4,0K -rwxr-xr-x  1 root root 1,4K ene 19 15:54 [01;32mssh-Tkinter-check-router-network-status.sh[0m
+4,0K -rwxr-xr-x  1 root root  710 ene 19 15:54 [01;32mtelnet-Tkinter-retrieve-running-config.sh[0m
+4,0K -rwxr-xr-x  1 root root 1,2K ene 19 15:54 [01;32mtelnet-Tkinter-check-router-network-status.sh[0m
+4,0K drwxr-xr-x  2 root root 4,0K ene 19 15:54 [01;34mtests[0m
+4,0K -rwxr-xr-x  1 root root  796 ene 19 15:54 [01;32mdevicecredentials.sh[0m
+8,0K -rwxr-xr-x  1 root root 5,5K ene 19 15:54 [01;32menableallloging.py[0m
+4,0K drwxr-xr-x  2 root root 4,0K ene 19 15:54 [01;34mcisco-ssh-access-scripts-logs[0m
+4,0K -rwxr-xr-x  1 root root  655 ene 19 15:54 [01;32mtelnet-running-config-template.sh[0m
+4,0K -rwxr-xr-x  1 root root 1,2K ene 19 15:54 [01;32mtelnet-check-router-network-status.sh[0m
+4,0K -rwxr-xr-x  1 root root  875 ene 19 15:54 [01;32mssh-running-config-template.sh[0m
+4,0K -rwxr-xr-x  1 root root 1,4K ene 19 15:54 [01;32mssh-check-router-network-status.sh[0m
+4,0K -rwxr-xr-x  1 root root 3,6K ene 19 15:54 [01;32mcreate-telnet-script-to-get-running-config.sh[0m
+4,0K -rwxr-xr-x  1 root root 3,7K ene 19 15:54 [01;32mcreate-telnet-script-to-check-router-network-status.sh[0m
+4,0K -rwxr-xr-x  1 root root 3,6K ene 19 15:54 [01;32mcreate-ssh-script-to-get-running-config.sh[0m
+4,0K -rwxr-xr-x  1 root root 3,6K ene 19 15:54 [01;32mcreate-ssh-script-to-check-router-network-status.sh[0m
+4,0K -rwxr-xr-x  1 root root 1,5K ene 19 15:54 [01;32mcopyallmultiprgoram-tohomedir.sh[0m
+4,0K -rwxr-xr-x  1 root root  589 ene 19 15:54 [01;32mnload-network-monitor.sh[0m
+4,0K -rwxr-xr-x  1 root root  439 ene 19 15:54 [01;32mhtop.sh[0m
+4,0K -rwxr-xr-x  1 root root  336 ene 19 15:54 [01;32mviewservices.sh[0m
+4,0K -rwxr-xr-x  1 root root 3,4K ene 19 15:54 [01;32msysteminfo.sh[0m
+ 12K -rwxr-xr-x  1 root root 9,4K ene 19 15:54 [01;32mscp-remote-tkinter.py[0m
+8,0K -rwxr-xr-x  1 root root 4,7K ene 19 15:54 [01;32mscp-remote.py[0m
+4,0K -rwxr-xr-x  1 root root  509 ene 19 15:54 [01;32mrunning-config.sh~[0m
+4,0K -rwxr-xr-x  1 root root 2,1K ene 19 15:54 [01;32mnetworkreload.sh[0m
+4,0K -rwxr-xr-x  1 root root  499 ene 19 15:54 [01;32mnetworkreload-nolog.sh[0m
+4,0K -rwxr-xr-x  1 root root   50 ene 19 15:54 [01;32mMultiprogram-Tkinter.sh[0m
+ 16K -rwxr-xr-x  1 root root  14K ene 19 15:54 [01;32mMultiprogram-Tkinter.py[0m
+4,0K -rwxr-xr-x  1 root root   55 ene 19 15:54 [01;32mMultiprogram-Tkinter-new.sh[0m
+ 32K -rwxr-xr-x  1 root root  29K ene 19 15:54 [01;32mMultiprogram-Tkinter-new-1.py[0m
+4,0K -rwxr-xr-x  1 root root   55 ene 19 15:54 [01;32mMultiprogram-new.sh[0m
+ 64K -rwxr-xr-x  1 root root  61K ene 19 15:54 [01;32mMultiprogram-new.py[0m
+1,8M -rwxr-xr-x  1 root root 1,8M ene 19 15:54 [01;32mipscan_3.4_amd64.deb[0m
+4,0K -rwxr-xr-x  1 root root  916 ene 19 15:54 [01;32mhtmlsysteminfofirefox.sh[0m
+ 32K -rwxr-xr-x  1 root root  31K ene 19 15:54 [01;32mfiles-and-folders-operations.py[0m
+4,0K -rwxr-xr-x  1 root root  454 ene 19 15:54 [01;32mdelete-bridge-interfaces.sh[0m
+4,0K -rwxr-xr-x  1 root root  677 ene 19 15:54 [01;32mcreate-bridge-interfaces.sh[0m
+4,0K -rwxr-xr-x  1 root root  487 ene 19 15:54 [01;32mcheck-ipscan.sh[0m
+4,0K -rwxr-xr-x  1 root root   45 ene 19 15:54 [01;32mbinary-to-decimal.sh[0m
+4,0K -rwxr-xr-x  1 root root 1,2K ene 19 15:54 [01;32mbinary-to-decimal.py[0m
+ 20K -rwxr-xr-x  1 root root  18K ene 19 15:54 [01;32mcopy-transfer-multiprogram-files-Tkinter.py[0m
+ 20K -rwxr-xr-x  1 root root  17K ene 19 15:54 [01;32mcopy-or-transfer-multiprogram-files.py[0m
+4,0K -rwxrwxrwx  1 gus  gus   878 ene 19 14:46 [01;32mallmyprograms.sh[0m
+]0;root@kurogane: /homeroot@kurogane:/home# exit
+exit
+
+Script done on vie 20 ene 2017 13:15:22 ART

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Multiprogram button console
+Comment=Launches Multiprogram button console
+Exec=gnome-terminal -e "python /home/Multiprogram-Tkinter-new-1.py"
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Application;
