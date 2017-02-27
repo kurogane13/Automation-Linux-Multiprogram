@@ -19,6 +19,19 @@ The main programs are:
 -Multiprogram-Tkinter-new-1.py
 -Multiprogram-Tkinter.Desktop
 
+You should create the following folders, for ssh, and telnet scripts:
+
+in the home folder create:
+
+cisco-ssh-access-scripts-logs
+cisco-telnet-access-scripts-logs
+
+Inside of each of the above directories, create the following subdirectories:
+
+check-device-network-status
+running-configs
+
+
 To get a button console version of the Multiprogram, copy ( with sudo )  Multiprogram-Tkinter.Desktop to your linux Desktop.
 This is a button that will be placed in your desktop, to launch the button console.
 
